@@ -1,0 +1,9 @@
+Package: com.ZnLG.DingTweak
+Name: DingTweak
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ZnLG
+Author: ZnLG
+Section: Tweaks
